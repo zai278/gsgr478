@@ -11,16 +11,14 @@ jsproxy_config({
   node_map: {
     'defalut': {
       label: '第1通道',
-      lines: {rapid-pine-4102.romualdxhnlbe.workers.dev
-        '111.111.workers.dev': 1,
+      lines: {'rapid-pine-4102.romualdxhnlbe.workers.dev': 1,
       }
     },
     
      
     'defalut1': {
       label: '第2通道',
-      lines: {cool-firefly-48e3.romualdxhnlbe.workers.dev
-        '222.222.workers.dev': 1,
+      lines: {'cool-firefly-48e3.romualdxhnlbe.workers.dev': 1,
       }
     },
     
@@ -28,7 +26,7 @@ jsproxy_config({
     'defalut2': {
       label: '第3通道',
       lines: {
-        'https://spring-violet-2998.romualdxhnlbe.workers.dev/': 1,
+        'spring-violet-2998.romualdxhnlbe.workers.dev': 1,
       }
     },
   
