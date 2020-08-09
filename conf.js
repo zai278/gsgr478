@@ -28,7 +28,7 @@ jsproxy_config({
     'defalut2': {
       label: '第3通道',
       lines: {
-        '333.333.workers.dev': 1,
+        'https://spring-violet-2998.romualdxhnlbe.workers.dev/': 1,
       }
     },
   
